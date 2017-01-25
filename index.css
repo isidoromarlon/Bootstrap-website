@@ -1,0 +1,42 @@
+body {
+	background-color: lightblue;
+}
+
+body {
+	border: 1px solid black;
+}
+
+table {
+	table-layout: auto;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+img {
+	object-position: center;
+}
+
+.site-header {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+6,6d0019+13,6d0019+13,8f0222+70,6d0019+89 */
+background: #a90329; /* Old browsers */
+background: -moz-linear-gradient(top,  #a90329 6%, #6d0019 13%, #6d0019 13%, #8f0222 70%, #6d0019 89%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #a90329 6%,#6d0019 13%,#6d0019 13%,#8f0222 70%,#6d0019 89%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #a90329 6%,#6d0019 13%,#6d0019 13%,#8f0222 70%,#6d0019 89%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */
+
+}
+
+input {
+	border-radius: 1px solid red;
+}
+
+h1{
+	
+	text-align: center;
+	border: 2px solid black;
+	text-decoration: underline;
+	font-family: 'Poiret One', cursive;
+}
+
